@@ -1,0 +1,49 @@
+#navbar-logo {
+    font-size: 22px;
+    padding-right: 100px;
+}
+
+.registration-button {
+    font-size: 18px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.main-container {
+    margin-top: 30px;
+}
+
+.custom-dbox-popup img {
+    margin: 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(234, 234, 234, 0.8);
+}
+
+body, .sticky-footer-wrapper {
+    min-height:100vh;
+}
+
+.flex-fill {
+    flex:1 1 auto;
+}
+
+footer {
+    background-color: #b7b7b7;
+    margin-top: 50px;
+}
+
+.portal-button {
+    margin: 5px;
+}
+
+.schedule-card {
+    margin: 15px;
+}
+
+.badge-spaced {
+    margin: 5px;
+}

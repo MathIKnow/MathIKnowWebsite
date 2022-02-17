@@ -1,0 +1,16 @@
+#availability {
+    height: 560px;
+}
+
+.accepted {
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(0, 133, 37);
+}
+
+.deferred {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: rgb(255, 0, 0);
+}
